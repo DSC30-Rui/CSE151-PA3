@@ -2,7 +2,9 @@
 
 Hi 
 
-All experiments were conducted and stored in the jupyternotebook. The model.py only implements the models that are with best architecture and have highest performance. 
+All experiments were conducted and stored in the jupyternotebooks. 
+
+
 
 data.py and prepare_data : Data extraction Data Preprocessing
 
@@ -11,6 +13,8 @@ model.py: Baseline model +  our best custom model + our best VGG configuration +
 engine.py: Train the model and store the key statistics 
 
 main.py: leave as is 
+
+
 
 One can see the performances, experiments and their visualizations here.  
 
